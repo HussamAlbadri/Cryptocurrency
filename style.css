@@ -1,0 +1,51 @@
+html {
+  background-color: white;
+}
+header{
+  text-align: center;
+  color: black;
+}
+p{
+  color: black;
+  border: 3px;
+}
+
+li a{
+  display: block;
+  color: gray;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+   background-color: #111;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+a {
+  text-decoration: none;
+  color: lightblue;
+}
+footer{
+  border: 20px;
+  color: white;
+  background-color: blue;
+  margin-bottom: 50px;
+  margin-left: 40px;
+  margin-right: 50px;
+  margin-top: 40px;
+}
+.lit-p{
+  color: aqua;
+}
+.eth-p{
+ color: blue;
+}
+li{
+  color: red;
+}
